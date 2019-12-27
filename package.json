@@ -1,0 +1,9 @@
+{
+	"name": "hexo-tag-survey-monkey",
+	"description": "A plugin for the Hexo static site generator to add support for a Survey Monkey embedded survey tag",
+	"keywords": ["hexo", "tag", "plugin"],
+	"homepage": "https://alphageek.com.au/hexo-tag-survey-monkey",
+	"version": "0.1.0",
+	"main": "index",
+	"author": "Michael Lambert (https://alphageek.com.au)"
+}
